@@ -1,0 +1,47 @@
+.navbar{
+
+    margin-top:0%;
+    margin-left:50%;
+    transform: translate(-50%,50%);
+
+}
+
+.navbar ul{background-color: red; height: 50px;}
+.navbar ul li{float:left;list-style-type: none; padding: 15px;}
+.navbar ul li a{ text-decoration: none; font-size: 18px; color: #fff; padding: 10px 15px; font-weight: bold;}
+
+.active{
+    background-color: green;
+}
+
+
+.slider{
+    margin-top:10%;
+ 
+   text-align: center;
+   transition: 2s;
+
+}
+
+.switchbtn{
+
+   
+    color:#fff;
+    box-shadow: 3px 2px 3px 5px rgb(242,23,41,.5);
+    padding: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.mysound{
+
+    
+    color:#000;
+    background-color: rgb(115, 117, 117);
+   
+    padding: 20px 50px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+    border:none
+}
